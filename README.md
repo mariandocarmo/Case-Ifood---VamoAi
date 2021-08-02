@@ -81,9 +81,8 @@ Utilizamos princípios de Soft Skils para a estruturação e organização do pr
 
 
 ## AGRADECIMENTOS:
-```sh
-A colaboração dos mebros grupo foi imprescindível para o sucesso deste trabalho. Foi sensacional poder  conhecer a história de cada um e contar principalmente com a dedicação! Que este trabalho traga para o público muito conhecimento em relação a exploração de dados e a importância de se construir parcerias durante a vida! Foi incrível viver esta experiência de 6 meses e VamoAi! 
-```
+> ### A colaboração dos mebros grupo foi imprescindível para o sucesso deste trabalho. Foi sensacional poder  conhecer a história de cada um e contar principalmente com a dedicação! Que este trabalho traga para o público muito conhecimento em relação a exploração de dados e a importância de se construir parcerias durante a vida! Foi incrível viver esta experiência de 6 meses e VamoAi! 
+
 
 #
 
