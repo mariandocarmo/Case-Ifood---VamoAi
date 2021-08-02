@@ -1,5 +1,5 @@
-# CASE IFOOD - VAMO AI
-### _PROJETO FINAL DO CURSO RESILIA EM PARCERIA COM IFOOD_ <center>
+# <h1 align="center"> CASE IFOOD - VAMO AI </h1> 
+### <h1 align="center"> _PROJETO FINAL DO CURSO RESILIA EM PARCERIA COM IFOOD_ </h1> 
 
 ![alt text](RESILIA.png)
 
