@@ -41,8 +41,7 @@ A apresentação do trabalho foi realizada no curso da Resilia e parceria com o 
 
 ```sh
 Python
-POO
-Biblioteca Pandas, Numpy, Matplotlib
+Biblioteca Pandas, Numpy
 JSON
 ```
 
