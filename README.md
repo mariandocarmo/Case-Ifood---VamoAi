@@ -14,7 +14,7 @@ A apresentação do trabalho foi realizada no curso da Resilia e parceria com o 
 #
 
 ### _Tema escolhido pelo grupo_:
-#### O grupo escolheu o tema da Alice no País das maravilhas. O intuito era realizar uma alusão a questão do tempo que a trama de Alice no País das maravilhas carrega.Por meio da apresentação da história de Nathan e de seus dados, apresentamos o que ele fez durante o seu percurso profissional através do tempo. E com isso, mostramos a parte da história de vida dele que tinha um início no fim do seu ensino médio e final conclusivo com o curso do VAMOAI. 
+#### O grupo escolheu o tema da Alice no País das maravilhas. O intuito era realizar uma alusão a questão do tempo que a trama de Alice no País das maravilhas carrega. Por meio da da história de Nathan e de seus dados, apresentamos o que ele fez durante o seu percurso profissional, através do tempo. E com isso, mostramos a parte da história de vida dele, que tinha um início no fim do seu ensino médio e final conclusivo, com o curso do VAMOAI. 
 
 #
 
@@ -43,7 +43,6 @@ A apresentação do trabalho foi realizada no curso da Resilia e parceria com o 
 Python
 POO
 Biblioteca Pandas, Numpy, Matplotlib
-Princípios SOLID
 JSON
 ```
 
@@ -65,7 +64,7 @@ VsCode
 > _**Importante destacar que**_ : Durante a construção do projeto foi possível ter uma experiência Data Driven sobre as informações de cada um. Com isso, colocamos em prática os conhecimentos de programação, além da oportunidade de conhecer o nosso comportamento por meio dos dados que manipulamos.
 
 
-Utilizamos princípios de Soft Skils para a estruturação e organização do processo de construção do programa. Como resultado obtivemos:
+Utilizamos princípios de Soft Skils para a estruturação e organização do processo de construção do projeto e apresentação de dados por meio de Dashboard. Como resultado obtivemos:
 
 | Resultados | GIF |
 | ------ | ------ |
